@@ -1,6 +1,0 @@
-New Transformer.TR1 phases=3 Basefreq=50 XHL=5.5 %loadloss=0.67 %noloadloss=0.0844
-~ wdg=1 bus=Source conn=Delta kV=11 kVA=1000
-~ wdg=2 bus=LV_busbar_transformerstation conn=Wye kV=0.4 kVA=1000
-New Transformer.TR2 phases=3 Basefreq=50 XHL=5.5 %loadloss=0.67 %noloadloss=0.0844
-~ wdg=1 bus=Source conn=Delta kV=11 kVA=1000
-~ wdg=2 bus=LV_busbar_transformerstation conn=Wye kV=0.4 kVA=1000

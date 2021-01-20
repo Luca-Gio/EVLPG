@@ -1,1 +1,0 @@
-New circuit.SW_Grid basekv=11 bus1=Source

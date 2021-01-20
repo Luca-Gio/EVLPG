@@ -1,4 +1,0 @@
-New Load.CF1_EV phases=3 bus1=A_001 conn=wye kv=0.4 daily=CF1_EV
-New Load.CF3_EV phases=3 bus1=A_013 conn=wye kv=0.4 daily=CF3_EV
-New Load.CF2_EV phases=3 bus1=S_005 conn=wye kv=0.4 daily=CF2_EV
-New Load.CF4_EV phases=3 bus1=S_002 conn=wye kv=0.4 daily=CF4_EV
