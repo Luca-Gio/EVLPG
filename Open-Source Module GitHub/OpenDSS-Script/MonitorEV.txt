@@ -1,0 +1,4 @@
+New monitor.EV_CF1 element=Load.CF1_EV terminal=1 mode=1 ppolar=no
+New monitor.EV_CF3 element=Load.CF3_EV terminal=1 mode=1 ppolar=no
+New monitor.EV_CF2 element=Load.CF2_EV terminal=1 mode=1 ppolar=no
+New monitor.EV_CF4 element=Load.CF4_EV terminal=1 mode=1 ppolar=no
