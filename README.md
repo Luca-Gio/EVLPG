@@ -1,6 +1,6 @@
 # General information
 
-This open-source module has been developed as a Master project at the Zurich University of Applied Sciences (ZHAW) at the Institute of Energy Systems and Fluid Engineering (IEFE).
+This open-source module has been developed as a Master project at the Institute of Energy Systems and Fluid Engineering (IEFE) of the Zurich University of Applied Sciences (ZHAW).
 Title: Open-source module for the investigation of the impact of EVs in a LV grid.
 Author: Giorgi Luca (luca.giorgi@bluewin.ch).
 Supervisors:
