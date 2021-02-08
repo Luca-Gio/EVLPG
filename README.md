@@ -1,5 +1,5 @@
 
-# EVLPG is an Electric Vehicle Load Profiles Generator for the investigation of the impact of EVs in a LV grid
+# EVLPG is an Electric Vehicle Load Profiles Generator for Low voltage grid studies
 
 This open-source module has been developed as a Master project at the Institute of Energy Systems and Fluid Engineering (IEFE) of the Zurich University of Applied Sciences (ZHAW).
 
